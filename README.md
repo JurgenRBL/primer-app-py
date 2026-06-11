@@ -1,3 +1,4 @@
+HEAD
 
 # Sistema de Gestión de Inventario CCTV
 
@@ -136,3 +137,6 @@ python main.py
 - **PyAirtable**: Cliente de Airtable para Python
 - **python-dotenv**: Para manejar variables de entorno
 
+# primer-app-py
+trabaao de la materia de aplicaciones moviles
+debc9414397c7791014d1a2cddea2633179e14cc
