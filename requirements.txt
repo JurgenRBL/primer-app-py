@@ -1,0 +1,7 @@
+
+flet
+pyairtable
+pyrebase4
+requests
+python-dotenv
+
