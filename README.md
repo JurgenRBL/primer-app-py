@@ -45,7 +45,7 @@ Proyecto_CCTV/
 2. **Crear un entorno virtual (opcional pero recomendado)**
    ```bash
    python -m venv venv
-   # Windows
+   # Windowscd
    venv\Scripts\activate
    # Linux/Mac
    source venv/bin/activate
